@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Chris! 👋  
 
-<!--
-**Andopher/Andopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👨‍💻 Software Development Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### SC Interactives  
+**Led Development:**  
+- [Lorodha](https://github.com/Andopher/LORODHA)  
+- [Weatherle](https://github.com/Andopher/Weatherle)
+
+**Helped Develop:**  
+- [David Game](https://github.com/samcraftt/SCInteractives/tree/main/DavidGame)  
+
+**Coming Soon:**  
+- [Dealah](https://github.com/Andopher/Dealah)  
+- [Locked Key](https://github.com/Andopher/LockedKey)
+
+---
+
+## 🔭 I’m currently working on:
+- Locked Key, Dealah
+
+## 🌱 I’m currently learning:
+- Bernoulli Trials
+
+## 👯 I’m looking to collaborate on:
+- Real-World Complex problems
+
+## 🤔 I’m looking for help with:
+- Learning Basic
+
+## 💬 Ask me about:
+- Fitness
+
+## 📫 How to reach me:
+- risiochristopher@gmail.com
+
+## 😄 Pronouns:
+- He/Him
+
+## ⚡ Fun fact:
+- I am a huge Patriots Fan
