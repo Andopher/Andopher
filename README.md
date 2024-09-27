@@ -2,8 +2,7 @@
 
 
 ## 👨‍💻 Software Development Projects:
-
-### SC Interactives  
+  
 **Led Development:**  
 - [Lorodha](https://github.com/Andopher/LORODHA)  
 - [Weatherle](https://github.com/Andopher/Weatherle)
