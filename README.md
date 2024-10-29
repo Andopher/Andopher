@@ -17,7 +17,7 @@
 ---
 
 ## 🔭 I’m currently working on:
-- Locked Key, Dealah
+- NeuroLyze, Decodables
 
 ## 🌱 I’m currently learning:
 - Bernoulli Trials
