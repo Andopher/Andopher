@@ -6,7 +6,7 @@
 **Led Development:**  
 - [Lorodha](https://github.com/Andopher/LORODHA)  
 - [Weatherle](https://github.com/Andopher/Weatherle)
-- [Decodables](https://https://github.com/ichiu03/Decodables)
+- [Decodables](https://github.com/ichiu03/Decodables)
 
 **Helped Develop:**  
 - [David Game](https://github.com/samcraftt/SCInteractives/tree/main/DavidGame)  
