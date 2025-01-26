@@ -15,9 +15,6 @@
 
 ---
 
-## 🔭 I’m currently working on:
-- Decodables
-
 ## 🌱 I’m currently learning:
 - AI Engineering
 
