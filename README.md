@@ -3,23 +3,23 @@
 ## 👨‍💻 Software Development Projects:
 
 **Currently Working on**
-- [Decodables](https://github.com/ichiu03/Decodables)
+- Something I can't talk about yet 
   
 **Led Development:**  
-- [Lorodha](https://github.com/Andopher/LORODHA)  
-- [Weatherle](https://github.com/Andopher/Weatherle)
-- [Neurolyze](https://github.com/Andopher/NeurolyzeWebDem)
+- [Tatari Systems](https://tatari.systems)
+- [Decodables](https://decodables.xyz/)
+- [GressPro](https://www.linkedin.com/company/gresspro/about) (Hype is building)
   
 **Helped Develop:**  
-- [David Game](https://github.com/samcraftt/SCInteractives/tree/main/DavidGame)  
+- [Spect AI](https://getspect.ai/)  
 
 ---
 
 ## 🌱 I’m currently learning:
-- AI Engineering
+- That AI code isn't all it's cracked up to be
 
 ## 👯 I’m looking to collaborate on:
-- Edtech and Disability Tech
+- Edtech and Wellness Tech
 
 ## 🤔 I’m looking for help with:
 - Mastering Front End Design
@@ -29,6 +29,7 @@
 
 ## 📫 How to reach me:
 - risiochristopher@gmail.com
+- [My LinkedIn](https://www.linkedin.com/in/chrisrisio/)
 
 ## 😄 Pronouns:
 - He/Him
