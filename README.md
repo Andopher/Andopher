@@ -11,7 +11,7 @@
 - [GressPro](https://www.linkedin.com/company/gresspro/about) (Hype is building)
   
 **Helped Develop:**  
-- [Spect AI](https://getspect.ai/)  
+- [Nonlinear](https://www.nonlinear.build/)  
 
 ---
 
