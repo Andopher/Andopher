@@ -16,14 +16,8 @@
 ---
 
 ## 🌱 I’m currently learning:
-- That AI code isn't all it's cracked up to be
-
-## 👯 I’m looking to collaborate on:
-- Edtech and Wellness Tech
-
-## 🤔 I’m looking for help with:
-- Mastering Front End Design
-
+- How to smartly and safely utilize agents in my coding process
+- 
 ## 💬 Ask me about:
 - Fitness, Sports
 
