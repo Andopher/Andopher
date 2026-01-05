@@ -17,7 +17,7 @@
 
 ## 🌱 I’m currently learning:
 - How to smartly and safely utilize agents in my coding process
-- 
+  
 ## 💬 Ask me about:
 - Fitness, Sports
 
